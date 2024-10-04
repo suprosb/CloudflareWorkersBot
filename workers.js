@@ -8,7 +8,7 @@
  * Learn more at https://developers.cloudflare.com/workers/
  */
 
-const TOKEN = "BOT_TOKEN" // Get it from @BotFather https://core.telegram.org/bots#6-botfather
+const TOKEN = "7658862118:AAH4YU6sfdg3cSBTP7Cm2sPNSPJoiyvmMW0" // Get it from @BotFather https://core.telegram.org/bots#6-botfather
 const WEBHOOK = '/endpoint'
 const SECRET = "test" 
 
